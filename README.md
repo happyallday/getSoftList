@@ -1,0 +1,2 @@
+# getSoftList
+analysis getComputerInfo 
